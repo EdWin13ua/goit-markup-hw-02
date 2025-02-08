@@ -78,8 +78,8 @@ button {
 .hero-text {
     font-weight: bold;
     font-size: 56px;
-    line-height: 60px;
-    letter-spacing: 1.07em;
+    line-height: 1.07px;
+    letter-spacing: 0.02emem;
     text-align: center;
     color: #fff;}
 
@@ -125,8 +125,8 @@ button {
 /* #region Team */
 
 .team-title {
-    font-size: 36px;
-    line-height: 1.11;
+    font-size: 20px;
+    line-height: 1.2;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -146,8 +146,8 @@ font-weight: 500;
 
 .team-specialty {
     font-weight: 400;
-    font-size: 12px;
-    line-height: 24px;
+    font-size: 16px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;}
