@@ -90,3 +90,60 @@ button {
     background-color: #404bbf;
     }
 /* #endregion Hero */
+
+/* #region Strategy */
+
+.features {}
+
+.features-hide {}
+
+.features-head {
+    font-weight: medium;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 2%;
+    color: #2e2f42;}
+
+.features-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.strategy-list {}
+
+.features-list-item {}
+/* #endregion Strategy */
+
+/* #region Team */
+
+.team-logo {background: #fff;}
+
+.team-member {
+font-weight: medium;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.team-specialty {
+    font-weight: regular;
+    font-size: 12px;
+    line-height: 24px;
+    letter-spacing: 4%;
+    text-align: center;
+    color: #434455;}
+
+.team {
+    background-color: #f4f4fd;
+}
+/* #endregion Team */
+
+/* #region Portfolio */
+
+
+/* #endregion Portfolio */
